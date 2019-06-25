@@ -8,4 +8,9 @@ public class Test {
         System.out.println("retr");
         System.out.println("retr");
     }
+
+
+    public void test(){
+        System.out.println("sdfdsdds");
+    }
 }
